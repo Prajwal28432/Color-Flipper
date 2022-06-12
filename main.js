@@ -8,7 +8,7 @@ btn.addEventListener('click',function(){
 
     // alert(r+" "+g+" "+b);
     let color = 'rgba('+r+","+g+","+b+","+a+')';
-    alert(color);
+//     alert(color);
     document.body.style.backgroundColor = 'rgba('+r+","+g+","+b+","+a+')';
   btn.style.color = 'rgb('+r+","+g+","+b+')';
 
