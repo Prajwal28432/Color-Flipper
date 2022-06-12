@@ -10,7 +10,7 @@ btn.addEventListener('click',function(){
     let color = 'rgba('+r+","+g+","+b+","+a+')';
 //     alert(color);
     document.body.style.backgroundColor = 'rgba('+r+","+g+","+b+","+a+')';
-  btn.style.color = 'rgb('+r+","+g+","+b+')';
+//   btn.style.color = 'rgb('+r+","+g+","+b+')';
 
 }); 
 
